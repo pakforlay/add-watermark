@@ -1,4 +1,4 @@
-## Simple Add Watermark and Mass Add Watermark
+## Simple Add Watermark and Mass Add Watermark Videos
 
 ### Install
 Clone this project
