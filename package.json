@@ -4,13 +4,11 @@
   "description": "simple add wm using FFmpeg",
   "main": "index.js",
   "author": "PakForlay",
+  "license": "MIT",
   "repository": {
 	  "type": "git",
 	  "url": "https://github.com/pakforlay/add-watermark"
   },
-  "publishConfig": {
-  "registry": "https://npm.pkg.github.com/pakforlay"
-},
   "dependencies": {
     "ffmpeg": "^0.0.4",
     "fs": "^0.0.1-security",
