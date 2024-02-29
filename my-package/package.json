@@ -1,12 +1,12 @@
 {
-  "name": "@pakforlay/add-watermark",
-  "version": "1.0.0",
+  "name": "@pakforlay/add-watermark/my-package",
+  "version": "1.0.2",
   "description": "simple add wm using FFmpeg",
   "main": "index.js",
   "author": "PakForlay",
   "repository": {
 	  "type": "git",
-	  "url": "https://github.com/pakforlay/add-watermark"
+	  "url": "https://github.com/pakforlay/add-watermark/my-package"
   }
   "publishConfig": {
   "registry": "https://npm.pkg.github.com/pakforlay"
