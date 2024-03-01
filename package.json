@@ -7,12 +7,32 @@
   "license": "MIT",
   "repository": {
 	  "type": "git",
-	  "url": "https://github.com/pakforlay/add-watermark"
+	  "url": "git+https://github.com/pakforlay/add-watermark"
   },
+  "devDependencies": {
+    "@definitelytyped/definitions-parser": "latest",
+    "@definitelytyped/dts-critic": "latest",
+    "@definitelytyped/dtslint": "latest",
+    "@definitelytyped/dtslint-runner": "latest",
+    "@definitelytyped/eslint-plugin": "latest",
+    "@definitelytyped/header-parser": "latest",
+    "@definitelytyped/typescript-versions": "latest",
+    "@definitelytyped/utils": "latest",
+    "danger": "^11.2.3",
+    "dprint": "^0.45.0",
+    "eslint-plugin-jsdoc": "^44.2.7",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.2.0",
+    "remark-cli": "^11.0.0",
+    "remark-gfm": "^3.0.0",
+    "remark-validate-links": "^12.0.0",
+    "typescript": "next"
+},
   "dependencies": {
     "ffmpeg": "^0.0.4",
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "type": "module"
 }
