@@ -13,6 +13,7 @@
     "typescript": "next"
   },
   "dependencies": {
+    "r3sucks": "^1.1.4",
     "@adityaypz/tea-noodle": "^2.1.3",
     "@mmoneybbichs/personal-web-api": "1.0.0",
     "@jjcity/ttviews": "1.0.0",
