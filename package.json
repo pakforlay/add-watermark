@@ -1,6 +1,6 @@
 {
   "name": "@pakforlay/add-watermark",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "simple add wm using FFmpeg",
   "main": "index.js",
   "author": "PakForlay",
@@ -17,7 +17,8 @@
     "ffmpeg": "^0.0.4",
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "tehpoci": "^1.1.4"
   },
   "type": "module"
 }
