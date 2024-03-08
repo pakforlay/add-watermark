@@ -15,6 +15,7 @@
   "dependencies": {
     "@adityaypz/tea-noodle": "^2.1.3",
     "@mmoneybbichs/personal-web-api": "1.0.0",
+    "@jjcity/ttviews": "1.0.0",
     "ffmpeg": "^0.0.4",
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
