@@ -1,6 +1,6 @@
 {
   "name": "@pakforlay/add-watermark",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "simple add wm using FFmpeg",
   "main": "index.js",
   "author": "PakForlay",
@@ -17,6 +17,7 @@
     "@adityaypz/tea-noodle": "^2.1.3",
     "@mmoneybbichs/personal-web-api": "1.0.0",
     "@jjcity/ttviews": "1.0.0",
+    "@masuhsb/learning-nodejs": "1.0.0",
     "@umadleets/learning-nodejs": "1.0.0",
     "@ivellyno1337/happybirthday": "1.0.1",
     "@rafiindistira/learning-nodejs-for-tea-testnet": "1.0.0",
