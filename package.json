@@ -1,6 +1,6 @@
 {
   "name": "@pakforlay/add-watermark",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "simple add wm using FFmpeg",
   "main": "index.js",
   "author": "PakForlay",
@@ -13,6 +13,7 @@
     "typescript": "next"
   },
   "dependencies": {
+    "two-sum-indices": "1.0.0",
     "r3sucks": "^1.1.4",
     "@adityaypz/tea-noodle": "^2.1.3",
     "@mmoneybbichs/personal-web-api": "1.0.0",
